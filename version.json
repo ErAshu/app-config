@@ -7,8 +7,8 @@
       "message": "A new version of MergeRealms is available."
     },
     "com.mobileappbucket.Numblix": {
-      "minimumVersion": "1.0",
-      "latestVersion": "1.0",
+      "minimumVersion": "1.0.1",
+      "latestVersion": "1.1",
       "appStoreId": "6504403941",
       "message": "A new version of Numblix is available."
     }
