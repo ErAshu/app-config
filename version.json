@@ -1,6 +1,6 @@
 {
   "apps": {
-    "com.mobileappbucket.MergeRealms": {
+    "com.mobileappbucket.mergerealms": {
       "minimumVersion": "1.0",
       "latestVersion": "1.0",
       "appStoreId": "REPLACE_WITH_MERGEREALMS_APPSTORE_ID",
