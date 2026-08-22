@@ -1,4 +1,16 @@
 {
-  "minimumVersion": "1.0",
-  "latestVersion": "1.0"
+  "apps": {
+    "com.mobileappbucket.MergeRealms": {
+      "minimumVersion": "1.0",
+      "latestVersion": "1.0",
+      "appStoreId": "REPLACE_WITH_MERGEREALMS_APPSTORE_ID",
+      "message": "A new version of MergeRealms is available."
+    },
+    "com.mobileappbucket.Numblix": {
+      "minimumVersion": "1.0",
+      "latestVersion": "1.0",
+      "appStoreId": "REPLACE_WITH_NUMBLIX_APPSTORE_ID",
+      "message": "A new version of Numblix is available."
+    }
+  }
 }
