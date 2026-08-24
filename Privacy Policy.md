@@ -69,5 +69,5 @@ Any updates will be posted on this page, and the "Last updated" date will be rev
 
 If you have questions about this Privacy Policy or the app, please contact:
 
-**Developer:** [Your Name]  
-**Email:** [Your Support Email]
+**Developer:** [Ashutosh Kumar]  
+**Email:** [mobileappbucket@gmail.com]
