@@ -15,9 +15,10 @@
     },
     "com.mobileappbucket.Scanora": {
       "minimumVersion": "1.0",
-      "latestVersion": "1.0.1",
+      "latestVersion": "1.0",
       "appStoreId": "6504403941",
-      "message": "A new version of Scanora is available. Download the get the latest features."
+      "supportEmail": "ashuraj7@gmail.com",
+      "message": "A new version of Scanora is available. Download it to get the latest features."
     }
   }
 }
