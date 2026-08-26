@@ -14,8 +14,8 @@
       "message": "A new version of Numblix is available."
     },
     "com.mobileappbucket.Scanora": {
-      "minimumVersion": "1.0.1",
-      "latestVersion": "1.0",
+      "minimumVersion": "1.0",
+      "latestVersion": "1.0.1",
       "appStoreId": "6504403941",
       "message": "A new version of Scanora is available. Download the get the latest features."
     }
