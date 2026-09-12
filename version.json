@@ -23,11 +23,11 @@
       "message": "A new version of Scanora is available. Download it to get the latest features."
     },
     "com.mobileappbucket.mypgrent": {
-      "minimumVersionAndroid": "1.0",
-      "latestVersionAndroid": "1.0",
+      "minimumVersionAndroid": "1.1",
+      "latestVersionAndroid": "1.7",
       "appStoreId": "6804779153",
-      "minimumVersionIOS": "1.0",
-      "latestVersionIOS": "1.0",      
+      "minimumVersionIOS": "1.1",
+      "latestVersionIOS": "1.8",      
       "supportEmail": "mobileappbucket@gmail.com",
       "feedbackSubject": "Feedback on Scanora",
       "feedbackBody": "Hi MyPgRent team,\nI’d like to share some feedback about the app:",
