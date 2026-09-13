@@ -25,11 +25,11 @@
     "com.mobileappbucket.mypgrent": {
       "minimumVersionAndroid": "1.0",
       "latestVersionAndroid": "1.7",
-      "appStoreId": "6804779153",
+      "appStoreId": "6805592173",
       "minimumVersionIOS": "1.0",
       "latestVersionIOS": "1.8",      
       "supportEmail": "mobileappbucket@gmail.com",
-      "feedbackSubject": "Feedback on Scanora",
+      "feedbackSubject": "Feedback on MyPgRent",
       "feedbackBody": "Hi MyPgRent team,\nI’d like to share some feedback about the app:",
       "message": "A new version of MyPgRent is available. Download it to get the latest features."
     },
