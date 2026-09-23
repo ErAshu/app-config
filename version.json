@@ -33,5 +33,16 @@
       "feedbackBody": "Hi MyPgRent team,\nI’d like to share some feedback about the app:",
       "message": "A new version of MyPgRent is available. Download it to get the latest features."
     },
+    "com.mobileappbucket.bdayBell": {
+      "minimumVersionAndroid": "1.0",
+      "latestVersionAndroid": "1.0",
+      "appStoreId": "6815103690",
+      "minimumVersionIOS": "1.0",
+      "latestVersionIOS": "1.0",      
+      "supportEmail": "mobileappbucket@gmail.com",
+      "feedbackSubject": "Feedback on BDayBell",
+      "feedbackBody": "Hi BDayBell team,\nI’d like to share some feedback about the app:",
+      "message": "A new version of BDayBell is available. Download it to get the latest features."
+    },
   }
 }
