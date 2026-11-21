@@ -102,8 +102,8 @@
       "feedbackSubject": "Feedback on Hey PDF App",
       "feedbackBody": "Hi Hey PDF team,\nI’d like to share some feedback about the app:",
       "message": "A new version of Hey PDF is available. Download it to get the latest features.",
-      "privacyURL": "https://genzlogic.github.io/privacy/focuslock/",
-      "tncURl": ""
+      "privacyURL": "https://genzlogic.github.io/heypdf/privacy.html",
+      "tncURl": "https://genzlogic.github.io/heypdf/terms.html"
     } 
   }
 }
